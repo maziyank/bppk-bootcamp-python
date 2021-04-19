@@ -28,7 +28,7 @@ Latihan:
 Latihan:
   EDA using Dataset XXXX
   
-## Materi 2 Matplotlib
+## Materi 3 Matplotlib
 - Basic Usage
 - Example
 
