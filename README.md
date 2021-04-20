@@ -11,8 +11,7 @@
 
 13.15 - 14.45 Tugas Mandiri (Mengerjakan soal-soal sederhana)
 
-**
-14.45 - 15.30 Materi 2 Part 2 - Data Exploration dengan Pandas**
+**14.45 - 15.30 Materi 2 Part 2 - Data Exploration dengan Pandas**
 
 15.45 - 17.15 Tugas Mandiri (Content Development)
 
