@@ -11,13 +11,12 @@
 
 13.15 - 14.45 Tugas Mandiri (Mengerjakan soal-soal sederhana)
 
-**14.45 - 15.30 Materi 2 Part 2 - Data Exploration dengan Pandas**
+**14.45 - 15.30 Materi 2 Part 2 & Materi 3 - Data Exploration dengan Pandas & Visualisasi Data dengan Matplotlib**
 
 15.45 - 17.15 Tugas Mandiri (Content Development)
 
 ### Jumat 22/04/2021:
-07.30 - 08.15 Materi 3 - Matplotlib
-
+07.30 - 08.15 Pembahasan Tugas Mandiri
 
 
 ## Materi 
@@ -51,7 +50,7 @@ Latihan:
 Latihan:
   EDA using Dataset XXXX
   
-### Materi 3 : Matplotlib
+### Materi 3 : Visualisasi dengan Matplotlib
 - Basic Usage
 - Example
 
