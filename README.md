@@ -3,13 +3,14 @@ Materi Belajar Python Bootcamp BPPK
 
 ## Materi 1 Dasar Python
 
-- Variable dan Tipe Data
+- Variable
+- Data Type
 - Arithmatic Operator 
 - Logical Operator
+- Function
 - Data Structure
 - Flow Control
-- Function
-- Libraries -> Lanjut ke Pandas
+- Libraries
 
 Latihan:
   Simple algorithm problem
@@ -19,6 +20,7 @@ Latihan:
 - Load DataFrame
 - Subsetting/Filtering/Slicing
 - Sorting
+- Dropping Values
 - Identify Missing/Duplicate Value
 - EDA
   - Descriptive Statistics
